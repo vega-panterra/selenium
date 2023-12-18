@@ -1,0 +1,16 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+
+login: 'AlenaK'
+password: 'd02d48181c'
+
+
+title: WebDriver
+description: Selenium WebDriver is a programming interface that can be used to create and execute test cases.
+content: WebDriver drives a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
+        Selenium WebDriver refers to both the language bindings and the implementations of the individual browser controlling code. This is commonly referred to as just WebDriver.
+
+user_name: Vega
+user_email: feigmary@gmail.com
+content_contact: Creating new post in homework 3 test
